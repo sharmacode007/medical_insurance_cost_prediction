@@ -13,7 +13,7 @@
 </p>
 
 # Model
-<p> The Linear Regression model was selected for its simplicity, computational efficiency, and ability to provide interpretable coefficients. This model is particularly effective for understanding the linear relationships between predictors and the target variable, making it a suitable choice for initial exploration and prediction.</p>p>
+<p> The Linear Regression model was selected for its simplicity, computational efficiency, and ability to provide interpretable coefficients. This model is particularly effective for understanding the linear relationships between predictors and the target variable, making it a suitable choice for initial exploration and prediction.</p>
 
 # key observation
 <p>
