@@ -15,7 +15,7 @@
 ## Model
 <p> The Linear Regression model was selected for its simplicity, computational efficiency, and ability to provide interpretable coefficients. This model is particularly effective for understanding the linear relationships between predictors and the target variable, making it a suitable choice for initial exploration and prediction.</p>
 
-## key observation
+## Key Observation
 <p>
 •	Age and Smoking: Both age and smoking status exhibited a strong positive correlation with insurance charges. Older individuals and smokers were found to have significantly higher costs due to increased health risks associated with these factors.
 •	BMI: Body Mass Index (BMI) also showed a notable impact on insurance costs. The effect was particularly pronounced for smokers, indicating a compounding risk factor.
